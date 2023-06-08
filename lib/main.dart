@@ -24,7 +24,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  bool ohTurn = true; // first player is oh
+  bool ohTurn = true; // first player is  oh
 
   List<String> displayexoh = ['','','','','','','','','',];
   @override
